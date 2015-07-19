@@ -1,0 +1,9 @@
+{
+  "author": "kenpeter",
+  "description": "Script to convert media files to mp3 or mp4",
+  "name": "convert_media.js",
+  "dependencies": {
+    "commandar": "^2.8.1",
+    "glob": "^5.0.14"
+  }
+}
